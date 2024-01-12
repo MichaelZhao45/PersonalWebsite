@@ -1,0 +1,36 @@
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.nav-item {
+    margin: 1rem;
+    padding: 0.5rem;
+    list-style: none;
+}
+
+/* intro */
+
+.intro {
+    font-size: 2rem;
+    color: #FBF8BE;
+}
+
+body {
+    background-color: royalblue;
+}
+
+/* about section*/
+
+.about {
+    background-color: #FBF8BE;
+    padding: 1rem;
+    border-radius: 15px;
+}
+
+.student {
+    background-color: FBF8BE;
+    padding: 0.5rem;
+}
