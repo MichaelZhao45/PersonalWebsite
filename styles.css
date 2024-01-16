@@ -93,3 +93,50 @@ img {
     height: 100px;
     
 }
+
+.experiences {
+    background-color: #FBF8BE;
+    padding: 1rem;
+    border-radius: 15px;
+    margin: 4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.jobs {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #FBF8BE;
+}
+
+.jobs img {
+    border-radius: 15%;
+}
+
+.contact {
+    background-color: #FBF8BE;
+    padding: 1rem;
+    border-radius: 15px;
+    margin: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.reachOut {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #FBF8BE;
+}
+
+
+
+
+
+
+
+
+
+
