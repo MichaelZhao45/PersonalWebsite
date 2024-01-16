@@ -1,8 +1,12 @@
+/* navigation bar */
+
 .nav-list {
     display: flex;
     align-items: center;
     justify-content: left;
     box-shadow: 10px 10px 5px lightblue;
+    justify-content: flex-start;
+
 }
 
 .nav-item {
@@ -11,11 +15,32 @@
     list-style: none;
 }
 
+.nav-item a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.nav-item a:hover {
+    color: #FBF8BE;
+}
+
 /* intro */
 
 .intro {
+    font-size: 3rem;
+    color: #FBF8BE;
+    padding-left: 4rem;
+    padding-bottom: 0rem;
+    margin: 0rem;
+}
+
+.title {
     font-size: 2rem;
     color: #FBF8BE;
+    padding-left: 4rem;
+    padding-top: 0rem;
+    margin: 0rem;
 }
 
 body {
@@ -28,9 +53,43 @@ body {
     background-color: #FBF8BE;
     padding: 1rem;
     border-radius: 15px;
+    margin: 4rem;
+    display: flex;
+    flex-direction: row;
+    
+    
 }
 
+
 .student {
-    background-color: FBF8BE;
     padding: 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #FBF8BE;
+
+}
+
+.programmer {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #FBF8BE;
+
+
+}
+
+.runner {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #FBF8BE;
+
+}
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+    
 }
