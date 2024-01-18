@@ -28,3 +28,8 @@ I also did some thinking about where I want to proceed with the website.  Which 
 - Nav Bar Better Hover
 - Footer (maybe)
 - Different colour way for the website (maybe)
+
+<h1> Contact Section + Start of Comments - January 17, 2024 </h1>
+
+I finished the contact section and added icons as links instead of normal boring hyperlinks.
+I did start commenting on my HTML code for readability, however, I ran out of time for today's session.  Will be a task to get finished in my next session.
