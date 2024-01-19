@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: left;
-    box-shadow: 10px 10px 5px lightblue;
+    box-shadow: 5px 5px 5px lightblue;
     justify-content: flex-start;
 
 }
@@ -22,7 +22,7 @@
 }
 
 .nav-item a:hover {
-    color: #FBF8BE;
+    color:#FBF8BE;
 }
 
 /* intro */
@@ -60,29 +60,30 @@ body {
     
 }
 
-
 .student {
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: center;
     background-color: #FBF8BE;
-
+    line-height: 2rem;
 }
 
 .programmer {
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: center;
     background-color: #FBF8BE;
+    line-height: 2rem;
 
 
 }
 
 .runner {
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: center;
     background-color: #FBF8BE;
+    line-height: 2rem;
 
 }
 
@@ -93,6 +94,29 @@ img {
     height: 100px;
     
 }
+
+/* projects section */
+
+.projects {
+    background-color: #FBF8BE;
+    padding: 1rem;
+    border-radius: 15px;
+    margin: 4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.personalSite {
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    text-align: center;
+    background: #FBF8BE;
+    line-height: 2rem;
+}
+
+
+
+/* experiences section */
 
 .experiences {
     background-color: #FBF8BE;
@@ -105,19 +129,24 @@ img {
 
 .jobs {
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: center;
     background-color: #FBF8BE;
+    line-height: 2rem;
+
+
 }
 
 .jobs img {
     border-radius: 15%;
 }
 
+/* contact section */
+
 .contact {
     background-color: #FBF8BE;
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     border-radius: 15px;
     margin: 4rem;
     display: flex;
@@ -127,7 +156,7 @@ img {
 
 .reachOut {
     padding: 0.25rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: center;
     background-color: #FBF8BE;
     display: flex;
@@ -145,11 +174,13 @@ img {
     padding: 1rem;
 }
 
-
-
-
-
-
+.footer {
+    background-color: #FBF8BE;
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+    border-radius: 15px;
+}
 
 
 
