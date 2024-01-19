@@ -33,3 +33,10 @@ I also did some thinking about where I want to proceed with the website.  Which 
 
 I finished the contact section and added icons as links instead of normal boring hyperlinks.
 I did start commenting on my HTML code for readability, however, I ran out of time for today's session.  Will be a task to get finished in my next session.
+
+<h1> Project Section, Footer + Comments and Tab Icon - January 18, 2024 </h1>
+
+Created a footer section for credit for my creating the website.
+Started a projects section for the website.  More projects coming soon...
+
+Other tasks done were comments to make the code more readable to me and added a tab icon (Snorlax yah).
