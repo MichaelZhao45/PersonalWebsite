@@ -1,35 +1,11 @@
-<h1> The Start - January 11, 2024 </h1>
-This is the start of my project, where I will be designing a personal portfolio website for myself
+<h1> Personal Static Website Project </h1>
 
-- Implemented basic layout of sections and blocks to fill in
-- Started on the CSS and HTML, working on the navigation and the information that I generally want to be displayed
-- Overall just starting, more progress soon
+<h3> Description </h3>
+A personal static website that showcases who I am using HTML and CSS.  This project offers the ability to display who I am as I grow as a developer and person.  I plan to update this site frequently as time goes on.
 
-<h1> About Section + Nav Bar - January 15, 2024 </h1>
+<h3> Instructions </h3>
+To view this site...
 
-Got some solid work done today, roughly 75 mins of good work.  The project is coming along, can't wait to keep working on it!
-
-About Section
-- Added Icons to each section
-- Added Information for each section
-- Styled the section, font-size increase, etc
-
-Nav Bar
-- Made hover, change colour when you hover over the link
-- Increased font-size for links
-
-<h1> Experience and Contact Section + Ideas and Prep - January 16, 2024 </h1>
-
-Finished the experiences section and started on the contact section.  
-
-I also did some thinking about where I want to proceed with the website.  Which includes but is not limited to: 
-- Profile Picture
-- Icon Links in the Contact Section
-- Nav Bar Better Hover
-- Footer (maybe)
-- Different colour way for the website (maybe)
-
-<h1> Contact Section + Start of Comments - January 17, 2024 </h1>
-
-I finished the contact section and added icons as links instead of normal boring hyperlinks.
-I did start commenting on my HTML code for readability, however, I ran out of time for today's session.  Will be a task to get finished in my next session.
+- On the right side of the repo, find "github-pages"
+- You will be brought "github-pages deployments"
+- Click on the most recent deployment to find the website
